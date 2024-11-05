@@ -2,6 +2,8 @@
 
 Welcome to the Personal Data Store (PDS) repository! This repository tracks the evolution of PDS implementations, incorporating various search methods including index-based search, non-index based search, and Binary Search Trees (BSTs) for efficient data retrieval.
 
+It also contains a relational database project involving the use of 'JDBC', a database programming interface based on Java, to create a University Management system.
+
 ## Overview
 
 The repository contains different versions of PDS, each enhancing data retrieval and management capabilities through innovative search strategies. Below is a brief overview of the main components:
